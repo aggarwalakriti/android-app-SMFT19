@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact">
+        "Timings\n"
+        "Mon - Sat\n"
+
+        "09:00 AM - 08:00 PM\n"
+
+        "Sun\n"
+
+        "10:00 AM - 04:00 PM"
+    </string>
+</resources>
